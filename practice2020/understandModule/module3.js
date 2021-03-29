@@ -1,0 +1,1 @@
+module.exports = "whole export is string"
